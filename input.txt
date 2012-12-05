@@ -1,0 +1,9 @@
+Location 0, folder "Inbox", SIM memory, Inbox folder
+SMS message
+SMSC number          : "+447782000800"
+Sent                 : Sun 19 Feb 2012 13:55:24  +0000
+Coding               : Default GSM alphabet (no compression)
+Remote number        : "+447411739726"
+Status               : UnRead
+
+Ping
